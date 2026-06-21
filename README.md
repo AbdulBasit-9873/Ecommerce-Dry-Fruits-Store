@@ -37,6 +37,8 @@ This is a full-stack e-commerce web application built using PHP. The platform al
 <img width="701" height="717" alt="image" src="https://github.com/user-attachments/assets/590758a6-f5fd-4387-93d4-bea6a11c3b32" />
 <img width="704" height="512" alt="image" src="https://github.com/user-attachments/assets/2ea06383-e942-44d1-82d8-11807fa94c61" />
 
+->Check Live Demo
+https://smartcartt.infinityfreeapp.com
 
 -> Future Improvements
 - Payment Gateway Integration
